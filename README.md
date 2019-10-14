@@ -38,4 +38,4 @@ I would also add more test cases that has large inputs.
 
 Team Preference
 
-I prefer platform team and data team equally.
+I prefer platform team and data team, but policy team is also interesting to me.
