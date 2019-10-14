@@ -35,3 +35,7 @@ Optimizations
 If I had more time, I would improve the algorithm of storing the rules to improve space and time performance. Specifically, for each entry in each HashMap, I can merge intervals of the list of IP ranges. After merging, large space can be saved by removing duplicated ranges and overlapped ranges on average case. Additionally, when verifying the input IP, it only takes O(logn) time to find the one possible IP range(if any) since there is no overlap among the merged ranges. No further loop needed, therefore the time complexity can be decreased to O(logn) when calling the accept_packet function.
 
 I would also add more test cases that has large inputs.
+
+Team Preference
+
+I prefer platform team and data team equally.
